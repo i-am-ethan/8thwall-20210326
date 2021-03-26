@@ -1,5 +1,5 @@
 ./serve/bin/serve -d ./gettingstarted/xraframe
 
-./serve/bin/serve -d ./examples/aframe/animation-mixer
+./serve/bin/serve -d ./examples/
 
 
