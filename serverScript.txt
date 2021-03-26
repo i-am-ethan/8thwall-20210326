@@ -1,5 +1,3 @@
-./serve/bin/serve -d ./gettingstarted/xraframe
-
 ./serve/bin/serve -d ./examples/
 
 
